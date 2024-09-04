@@ -298,7 +298,7 @@
 															<entry>
 																<String>fragment</String>
 																<String>&lt;item xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_${id}">
-  &lt;label type="reg">${ask('Begriff (ohne Beschreibung')}&lt;/label>
+  &lt;label type="reg">${ask('Begriff (ohne Beschreibung)')}&lt;/label>
 &lt;/item></String>
 															</entry>
 															<entry>
@@ -4959,7 +4959,7 @@ general_ptr_2</String>
 											<String>Neuer Eintrag ohne Zusätze</String>
 										</field>
 										<field name="description">
-											<String>Neuen Eintrag in diesem Register erstellen</String>
+											<String>Neuen Eintrag (ohne Zusätze) in diesem Register erstellen</String>
 										</field>
 										<field name="largeIconPath">
 											<String>${frameworks}/ediarum.BASE.edit/icons/index.gif</String>
@@ -5190,7 +5190,7 @@ general_ptr_2</String>
 															<entry>
 																<String>fragment</String>
 																<String>&lt;item xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_${id}">
-  &lt;label type="reg">${ask('Begriff (ohne Beschreibung')}&lt;/label>
+  &lt;label type="reg">${ask('Begriff (ohne Beschreibung)')}&lt;/label>
 &lt;/item></String>
 															</entry>
 															<entry>
